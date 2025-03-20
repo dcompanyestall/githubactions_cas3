@@ -15,7 +15,7 @@ name: Docker Image CI
 # Trivy vulnerability scan
 # Upload Vulnerability Scan Report
 # Upload Trivy Vulnerability scan to GitHub Release
-# Generates SLSA provenance, in the form of in-toto attestation, and upoads to docker
+# Generates SLSA provenance, in the form of in-toto attestation, and uploads to docker
 
 on:
   push:
